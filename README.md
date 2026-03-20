@@ -186,11 +186,11 @@ Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
     Lcd_string(&lcd, "212224223003");
 ```
 ## Output screen shots of proteus  :
+![PMC EX4](https://github.com/user-attachments/assets/9aba9c77-490e-455d-b675-e1f7c484822d)
 
-![PMC EX4](https://github.com/user-attachments/assets/83ff61fb-7a3c-4882-b1c4-8abe6a4a3e04)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-<img width="859" height="726" alt="PMC EX4" src="https://github.com/user-attachments/assets/e5b679f2-c926-4995-a344-7cff78545904" />
+<img width="859" height="726" alt="PMC EX4" src="https://github.com/user-attachments/assets/898087b4-2275-4bf3-b9aa-59a45e3ab9cc" />
 
 
  
